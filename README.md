@@ -60,5 +60,6 @@ Data Collection
 The script used to pull the stock data from the Alpaca API is included in the repo. You can pull your own data by adding your Alpaca credentials to a .env file in the following format:
 ALPACA_API_KEY=your_api_key
 ALPACA_SECRET_KEY=your_secret_key
+
 You can get your credentials by creating an account on the Alpaca Developer Dashboard.
 
