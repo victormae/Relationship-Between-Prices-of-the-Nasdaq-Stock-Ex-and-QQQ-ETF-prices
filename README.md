@@ -1,6 +1,7 @@
 QQQ ETF & Nasdaq 100 Stock Predictor 
 
 Overview
+
 In the ever-evolving landscape of financial markets, understanding the relationships between individual stocks and ETFs is crucial for making informed decisions. This project investigates the relationships between the stock prices of the top 10 and bottom 10 companies on the Nasdaq 100 index and the corresponding price of the QQQ ETF - and builds machine learning models to predict and classify those relationships.
 The core questions driving this project:
 Do individual Nasdaq 100 stocks have a predictable relationship with the QQQ ETF price?
